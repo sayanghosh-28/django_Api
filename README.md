@@ -152,3 +152,6 @@ Decodes the task IDs and retrieves the status of each Celery task.
 Checks if each task is complete or still pending.
 Returns a response with the job ID and the status/result of each task.
 By following these detailed responses and explanations, you can better understand the API's functionality and handle different scenarios that might arise during the scraping process.
+
+The tables from the admin panel are the following :
+![Screenshot 2024-06-08 215945](https://github.com/sayanghosh-28/django_Api/assets/119283018/ff2f4087-8e47-44b0-831c-f48bd6f2f231)
